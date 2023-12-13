@@ -14,21 +14,29 @@ Automatic Tests + Python.
 ## Tech skills
 
 •	DevTools
+
 •	Robot Framework: basic
+
 •	Selenium Python: basic
+
 •	Python: basic
+
 •	SQL: basic
 
 ## Other skills
 •	Microsoft 365
+
 •	Google Workspace
 
 •	Polish: mother tongue
+
 •	English: advanced (C1)
 
 ## Certificates
 •	ISTQB FL
+
 •	Python 3
+
 •	SQL
 
 
