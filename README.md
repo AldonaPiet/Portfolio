@@ -10,7 +10,7 @@ Currently, to get practical skills, I do Dare IT challenges:
 Automatic Tests + Python.
 
 ### ....and privately
-In my free time I like walking, playing piano or playing with my cat (OK, playing with a cat is a must - she would not let me go;) 
+In my free time I like walking, playing piano or playing with my cat (OK, playing with a cat is a must - she would not let it slide ;) 
 
 
 
