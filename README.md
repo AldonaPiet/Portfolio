@@ -6,10 +6,13 @@ I studied physics and I was studying astronomy too. During my studies I took sci
 
 I’m a proactive, energetic person with a can do attitude. I’m also assertive team player and believe all problems should be resolved smoothly and diplomatically. 
 
-I’m detailed oriented.
-
 Currently, to get practical skills, I do Dare IT challenges: 
 Automatic Tests + Python.
+
+### ....and privately
+In my free time I like walking, playing piano or playing with my cat (OK, playing with a cat is a must - she would not let me go;) 
+
+
 
 ## Tech skills
 
