@@ -1,7 +1,7 @@
 # Portfolio
 
 
-## About me
+## About me 👋
 I studied physics and I was studying astronomy too. During my studies I took scientific and programming courses. After years of work with people in an international environment, I can tell that I’m advanced in the primary programming language: English ;) 
 
 I’m a proactive, energetic person with a can do attitude. I’m also assertive team player and believe all problems should be resolved smoothly and diplomatically. 
@@ -9,12 +9,12 @@ I’m a proactive, energetic person with a can do attitude. I’m also assertive
 Currently, to get practical skills, I do Dare IT challenges: 
 Automatic Tests + Python.
 
-### ....and privately
-In my free time I like walking, playing piano or playing with my cat (OK, playing with a cat is a must - she would not let it slide ;) 
+### ....and privately ⛺
+In my free time I like walking, playing piano or playing with my cat (OK, playing with the cat is a must - she would not let it slide 😉). I also like reading manga, watching anime and asian series. 
 
 
 
-## Tech skills
+## 🛠️ Tech skills
 
 •	DevTools
 
@@ -26,7 +26,7 @@ In my free time I like walking, playing piano or playing with my cat (OK, playin
 
 •	SQL: basic
 
-## Other skills
+## 🔨 Other skills
 •	Microsoft 365
 
 •	Google Workspace
@@ -35,7 +35,7 @@ In my free time I like walking, playing piano or playing with my cat (OK, playin
 
 •	English: advanced (C1)
 
-## Certificates
+## 🥇 Certificates
 •	ISTQB FL
 
 •	Python 3
